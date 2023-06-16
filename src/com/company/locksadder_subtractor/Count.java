@@ -1,4 +1,4 @@
-package com.company.adder_subtractor;
+package com.company.locksadder_subtractor;
 
 public class Count {
     public int num;
